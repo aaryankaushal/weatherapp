@@ -1,5 +1,7 @@
 
 import './App.css';
+import React from 'react'
+import ReactDOM from 'react-dom'
 import query from "./weather.json";
 import { CgDropInvert, CgCompressV} from 'react-icons/cg';
 import { WiStrongWind, WiSunrise, WiSunset} from 'react-icons/wi';
